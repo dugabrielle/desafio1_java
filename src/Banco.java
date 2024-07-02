@@ -55,8 +55,13 @@ public class Banco {
                 } else if (opcao == 3) {
                     System.out.println("Valor recebido: ");
                     double valorRecebido = opcoes.nextDouble();
-                    saldo += valorRecebido;
-                    System.out.println("Recebimento realizado. Saldo atualizado: " + saldo);
+
+                    if (valorRecebido > 0) {
+                        saldo += valorRecebido;
+                        System.out.println("Recebimento realizado. Saldo atualizado: " + saldo);
+                    } else {
+                        System.out.println("Valor inválido. Tente novamente.");
+                    }
 
                 } else if (opcao == 4) {
                     System.out.println("Obrigado por utilizar nosso sistema!");
