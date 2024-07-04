@@ -5,4 +5,4 @@
 #### Neste desafio, foi utilizando o conceito de encapsulamento para controlar o acesso aos atributos e métodos, o uso do método get e set para leitura e modificação, a palavra this para referência e a organização em pacote.
 
 ## 3º Desafio - Oracle Next Education
-#### O terceiro desafio é uma implementação básica de classes utilizando conceitos de herança e polimorfismo. Cada objeto contém comportamentos específicos definidos por suas subclasses.
+#### O terceiro desafio é uma implementação básica de classes utilizando conceitos de herança e polimorfismo. Cada objeto contém comportamentos específicos definidos por suas subclasses, sendo utilizado o recurso de sobrescrita de métodos "@Override".
