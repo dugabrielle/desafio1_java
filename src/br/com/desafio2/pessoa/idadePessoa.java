@@ -1,4 +1,4 @@
-package br.com.desafio.pessoa;
+package br.com.desafio2.pessoa;
 
 public class idadePessoa {
 

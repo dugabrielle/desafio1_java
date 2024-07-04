@@ -1,4 +1,4 @@
-package br.com.atividades.animal;
+package br.com.desafio3.animal;
 
 public class Gato extends Animal {
 
