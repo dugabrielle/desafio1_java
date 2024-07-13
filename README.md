@@ -8,4 +8,4 @@
 #### O terceiro desafio é uma implementação básica de classes utilizando conceitos de herança e polimorfismo. Cada objeto contém comportamentos específicos definidos por suas subclasses, sendo utilizado o recurso de sobrescrita de métodos "@Override".
 
 ## 4º Desafio - Oracle Next Education
-#### Este desafio utiliza a api pública do GitHub para consultar informações do usuário. O código trata exceções e exibi as informações específicas como o login, id e a url do usuário pesquisado.
+#### Este desafio utiliza a api pública do GitHub para consultar informações do usuário. O código trata exceções e exibe as informações específicas como o login, id e a url do usuário pesquisado.
