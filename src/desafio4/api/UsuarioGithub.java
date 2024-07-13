@@ -18,7 +18,7 @@ public class UsuarioGithub {
 
     @Override
     public String toString() {
-        return "\nInformações do Usuário: " +
+        return "\n***** Informações do Usuário *****" +
                 "\nLogin: " + login + "\nId: " + id +
                 "\nUrl: " + html_url;
     }
